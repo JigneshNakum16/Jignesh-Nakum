@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jigneshNakum16&label=Profile%20views&color=0e75b6&style=flat" alt="jigneshnakum" /> </p>
 
-<p align="left"> <a href="https://twitter.com/i/flow/login?redirect_after_login=%2FJignesh08155221" target="blank"><img src="https://img.shields.io/twitter/follow/alyani_mamad72?logo=twitter&style=for-the-badge" alt="jignesh_nakum" /></a> </p>
+<p align="left"> <a href="https://twitter.com/i/flow/login?redirect_after_login=%2FJignesh08155221" target="blank"><img src="https://img.shields.io/twitter/follow/Jignesh08155221?logo=twitter&style=for-the-badge" alt="jignesh_nakum" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack Dev**
 
