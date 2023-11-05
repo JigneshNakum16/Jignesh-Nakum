@@ -1,4 +1,4 @@
-https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Xuz5OGdQSUKEB8BjNb59cg.jpeg
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Xuz5OGdQSUKEB8BjNb59cg.jpeg)
 
 <h1 align="center">Hi 👋, I'm Jignesh Nakum</h1>
 <h3 align="center">A passionate Web Engineer(React Js) from Gujrat(India)</h3>
